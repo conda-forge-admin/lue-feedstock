@@ -40,7 +40,7 @@ requirements:
     - cxxopts
     - docopt-ng  # templatize.py
     - hdf5
-    - hpx
+    - hpx <2.0.0
     - jinja2  # templatize.py
     - libgdal
     - nlohmann_json

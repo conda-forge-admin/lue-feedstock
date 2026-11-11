@@ -39,6 +39,7 @@ requirements:
     # - shared libraries, interpreters
     - cxxopts
     - docopt-ng  # templatize.py
+    - hdf5
     - hpx
     - jinja2  # templatize.py
     - libgdal
